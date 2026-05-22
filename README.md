@@ -378,12 +378,12 @@ pre_osdi /home/hprcse/Documents/test/bsimcmg.osdi
 
 
 ```
-The schmatic that was made using xschem is as follows:
-![image](https://github.com/AsahiroKenpachi/asap_7nm_Xschem/assets/137492506/50582c54-2c9c-4007-b8ef-740628946fa8)
+
 
 
 
  The output of the Simulation is as follows:
+![image](https://github.com/AsahiroKenpachi/asap_7nm_Xschem/assets/137492506/f38d3a6c-fef3-4165-8d19-bd869dc77d76)
 ![image](https://github.com/AsahiroKenpachi/asap_7nm_Xschem/assets/137492506/f38d3a6c-fef3-4165-8d19-bd869dc77d76)
 
 
@@ -570,12 +570,6 @@ pre_osdi /home/hprcse/Documents/test/bsimcmg.osdi
 
 
 ```
-The schmatic that was made using xschem is as follows:
-![image](https://github.com/AsahiroKenpachi/asap_7nm_Xschem/assets/137492506/50582c54-2c9c-4007-b8ef-740628946fa8)
 
-
-
-The output of the Simulation is as follows:
-![image](https://github.com/AsahiroKenpachi/asap_7nm_Xschem/assets/137492506/dbb6ac29-3be9-487e-86cf-fa274456b1c7)
 
 
